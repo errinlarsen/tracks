@@ -119,6 +119,8 @@ fr:
     months: Mois
     next: Suivant
     none: Aucun
+    note:
+      one: 1 note
       other: "%{count} notes"
       zero: non notes
     notes: Notes
@@ -681,6 +683,21 @@ fr:
     running_time_legend:
       actions: Actions
       percentage: Pourcentage
+      weeks: Temps en cours d'une action (en semaines). Cliquer sur une barre pour
+        plus d'info
+    spread_of_actions_for_all_context: Vue des actions pour tous les contextes
+    spread_of_running_actions_for_visible_contexts: Vue des actions en cours pour
+      tous les contextes
+    tags: "Étiquettes"
+    tag_cloud_90days_description: Nuage d'étiquettes correspondant aux actions créées
+      ou réalisées lors des 90 derniers jours.
+    tag_cloud_90days_title: "Étiquettes pour les actions des 90 derniers jours"
+    tag_cloud_description: Nuage d'étiquettes correspondant à la totalité des actions
+      (réalisées, en cours, visibles ou cachées).
+    tag_cloud_title: "Étiquettes pour toutes les actions"
+    time_of_day: Heure (toutes les actions)
+    time_of_day_legend:
+      number_of_actions: Nombre d'actions
       time_of_day: Heure
     tod30: Heure (30 derniers jours)
     tod30_legend:

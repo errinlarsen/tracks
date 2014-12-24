@@ -1,17 +1,6 @@
 # Tracks: a GTD(TM) web application, built with Ruby on Rails
 Copyright (C) 2004-2014 rousette.org.uk
 
-<<<<<<< HEAD
-This program is free software; you can redistribute it and/or
-modify it under the terms of the GNU General Public License
-as published by the Free Software Foundation; either version 2
-of the License, or (at your option) any later version.
-
-[![Build Status](https://travis-ci.org/TracksApp/tracks.png?branch=2.2_branch)](https://travis-ci.org/TracksApp/tracks)
-[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/TracksApp/tracks)
-
-=======
->>>>>>> upgrade_irkeninvader.net
 * Project homepage: http://www.getontracks.org/
 * Manual: http://www.getontracks.org/manual/
 * Source at GitHub: https://github.com/TracksApp/tracks
@@ -21,22 +10,12 @@ of the License, or (at your option) any later version.
 * IRC channel: #tracks on Freenode
 * Original developer: bsag (http://www.rousette.org.uk/)
 * Contributors: https://github.com/TracksApp/tracks/wiki/Contributors
-<<<<<<< HEAD
-* Version: 2.2.3
-
-More documentation for Tracks can be found within the /doc directory. 
-
-The manual can be found at the website mentioned above. The manual includes
-full instructions for both new installations and upgrades from older 
-installations of Tracks.
-=======
 * Version: 2.3.rc1
 
 [![Build Status](https://travis-ci.org/TracksApp/tracks.svg?branch=2.3_branch)](https://travis-ci.org/TracksApp/tracks)
 
 Full instructions for both new installations and upgrades from older installations of Tracks
 can be found within the /doc directory.
->>>>>>> upgrade_irkeninvader.net
 
 The instructions might appear long and intimidatingly complex, but that is
 mostly because of the number of different platforms supported, and the
@@ -62,8 +41,6 @@ taking particular care when you are upgrading.
 
 Enjoy being productive!
 
-<<<<<<< HEAD
-=======
 --------------------------------------------------------------------------------
 
 Copyright (C) 2004-2014 rousette.org.uk
@@ -73,7 +50,6 @@ modify it under the terms of the GNU General Public License
 as published by the Free Software Foundation; either version 2
 of the License, or (at your option) any later version.
 
->>>>>>> upgrade_irkeninvader.net
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the

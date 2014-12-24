@@ -16,11 +16,7 @@ gem 'uglifier', '~> 2.5.3'
 
 gem 'jquery-rails', '~> 3.1.2'
 
-# you may comment out the database driver you will not be using.
-# This will prevent a native build of the driver. Building native drivers is not
-# always possible on all hosters
-gem "sqlite3", "~> 1.3.9"
-gem "mysql2", "~> 0.3.16"
+gem "pg"
 
 gem "RedCloth", "~> 4.2.9"
 gem "sanitize", "~> 3.0.2"
